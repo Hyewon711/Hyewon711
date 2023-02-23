@@ -3,5 +3,5 @@
 
 - ⚡Android Engineer⚡
 
-> C, Java, Python
+> Kotlin, Java, Python
 > Adobe Photoshop, Illustration, Indesign
